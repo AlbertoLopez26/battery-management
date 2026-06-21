@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=BAT+ Pin=MOSFET1-1
+Added Component: Designator=C3(CAP_0603_X1_WAL)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Walsin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0603X106M100CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_0603_CL10A_1P6XP8_SAM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A475KP8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(WE-LQS_4018)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/74404042047/W%25C3%25BCrth+Elektronik+Midcom/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74404042047"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Nonstandard Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74404042047/W%25C3%25BCrth+Elektronik+Midcom/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1(TO-236AB_SOT23_NEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2N7002NXAKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RC0603N_YAG-L - duplicate)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RC0603N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07976KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RC0603N_YAG-L - duplicate)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(RC0603N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07309KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT-23-6_MC_MCH)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP1640BT-I/CHY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=BAT+ Pin=C4-2
+Added Pin To Net: NetName=BAT+ Pin=L1-2
+Added Pin To Net: NetName=Vin Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=BAT+ Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=Vin Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=BAT+ Pin=U2-6
+Change Net Name : Old Net Name=BAT+ New Net Name=VBAT+
+Added Pin To Net: NetName=BOOST_OUT Pin=C3-2
+Added Pin To Net: NetName=BOOST_OUT Pin=MOSFET1-1
+Added Pin To Net: NetName=BOOST_OUT Pin=R7-1
+Added Pin To Net: NetName=BOOST_OUT Pin=U2-5
+Added Net: Name=BOOST_OUT
+Added Pin To Net: NetName=EN Pin=Q1-3
+Added Pin To Net: NetName=EN Pin=R6-1
+Added Pin To Net: NetName=EN Pin=U2-3
+Added Net: Name=EN
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U2-1
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=R9-1
+Added Pin To Net: NetName=NetR7_2 Pin=U2-4
+Added Net: Name=NetR7_2
+Added Member To Class: ClassName=powMan_powPath Member=Component C1 4.7uF
+Added Member To Class: ClassName=powMan_powPath Member=Component C3 10uF
+Added Member To Class: ClassName=powMan_powPath Member=Component C4 4.7 uF
+Added Member To Class: ClassName=powMan_powPath Member=Component L1 WE-LQS_4018
+Added Member To Class: ClassName=powMan_powPath Member=Component MOSFET1 NX2301P,215
+Added Member To Class: ClassName=powMan_powPath Member=Component Q1 2N7002NXAKR
+Added Member To Class: ClassName=powMan_powPath Member=Component R6 100K
+Added Member To Class: ClassName=powMan_powPath Member=Component R7 976K
+Added Member To Class: ClassName=powMan_powPath Member=Component R8 100K
+Added Member To Class: ClassName=powMan_powPath Member=Component R9 309K
+Added Member To Class: ClassName=powMan_powPath Member=Component U2 MCP1640BT-I/CHY
