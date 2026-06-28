@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VBAT+ Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Member From Class: ClassName=powMan_powPath Member=J2
+Removed Member From Class: ClassName=powMan_powPath Member=J3
+Change Net Name : Old Net Name=GND New Net Name=Battery-
+Change Net Name : Old Net Name=VBAT+ New Net Name=Battery+
+Added Pin To Net: NetName=Load+ Pin=D2-1
+Added Pin To Net: NetName=Load+ Pin=MOSFET1-2
+Added Net: Name=Load+
